@@ -3,7 +3,8 @@
 
 
 # external requirements
-click==7.0
+
+click
 Sphinx
 coverage
 awscli
